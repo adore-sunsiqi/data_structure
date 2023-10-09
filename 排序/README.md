@@ -4,24 +4,24 @@
 
   交换排序
 
-  &emsp; &emsp; 冒泡排序
+  &emsp; &emsp; 1、冒泡排序
 
-  &emsp; &emsp; 快速排序
+  &emsp; &emsp; 2、快速排序
 
   插入排序
 
-  &emsp; &emsp; 直接插入排序
+  &emsp; &emsp; 3、直接插入排序
 
-  &emsp; &emsp; 希尔排序
+  &emsp; &emsp; 4、希尔排序
 
   选择排序
 
-  &emsp; &emsp; 简单选择排序
+  &emsp; &emsp; 5、简单选择排序
 
-  &emsp; &emsp; 堆排序
+  &emsp; &emsp; 6、堆排序
 
-  归并排序
+  7、归并排序
 
-  基数排序
+  8、基数排序
 
 ## 外部排序
