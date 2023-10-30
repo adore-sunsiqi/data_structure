@@ -14,7 +14,7 @@ typedef int Element;
 
 struct Node{
     Element element; // 数据域
-    struct node *link; // 节点的指针域
+    struct Node *link; // 节点的指针域
 };
 struct singlist{
     struct Node * frist; // 单链表头指针
